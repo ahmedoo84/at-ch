@@ -1,10 +1,11 @@
-AR| BEINSPORTS NEWS HD
+#EXTM3U $ExtFilter="SPORT"            
+#EXTINF:0,AR| BEINSPORTS NEWS HD
 http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/24979
-|AR| BEINSPORTS HD
+#EXTINF:0,|AR| BEINSPORTS HD
 http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/24980
-|AR| BEINSPORTS 1 HD
+#EXTINF:0,|AR| BEINSPORTS 1 HD
 http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/28939
-|AR| BEINSPORTS 1 BKP
+#EXTINF:0,|AR| BEINSPORTS 1 BKP
 http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/13595
 |AR| BEINSPORTS 2 HD
 http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/28940
